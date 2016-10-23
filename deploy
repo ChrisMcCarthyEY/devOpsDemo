@@ -3,6 +3,6 @@ ssh ubuntu@54.86.0.23 <<EOF
  cd ~/apps/devOpsDemo
  git pull
  npm install --production
- restart
+ forever restart app.js
  exit
 EOF
