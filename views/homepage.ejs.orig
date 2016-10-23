@@ -11,5 +11,10 @@ setTimeout(function sunrise () {
 </script>
 
 <div class="default-page">
+<<<<<<< HEAD
+    <h2>Hello World!!!!!!!</h2>
+  <h4>EY is the best.</h4>
+=======
     <h2>Hello World!!</h2>
+>>>>>>> 4fc579f934e4a69f5d1857103b49b9dc91733ecc
 </div>
