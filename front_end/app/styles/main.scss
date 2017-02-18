@@ -1,0 +1,17 @@
+// bower:scss
+// endbower
+
+#container {
+  background-color:#fafafa;
+  height: 100vh;
+  md-card {
+    height: 250px;
+  }
+}
+#home-page-banner {
+  width: 100%;
+  height: 50vh;
+}
+.layout-column > .flex-gt-md-30 {
+  max-height: 100%;
+}
